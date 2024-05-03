@@ -1,1 +1,1 @@
-hands on -local git repo
+hands on -local git repo mapping to remote
